@@ -1,0 +1,1 @@
+{"0": "Local","1": "Police","2": "Politics","3": "Disaster","4": "Local Politics","5": "War on Drugs","6": "Disaster","7": "Weather"}

@@ -1,0 +1,1 @@
+{"0": "Disaster","1": "Government","2": "Police/Military","3": "Disaster","4": "War on Drugs","5": "Education","6": "Bicol","7": "Weather","8": "Sports"}
